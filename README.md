@@ -4,6 +4,8 @@ riscv-tests
 About
 -----------
 
+This repository is a fork of the [riscv/riscv-tests](https://github.com/riscv/riscv-tests) repo ported for the BESSPIN project.
+
 This repository hosts unit tests for RISC-V processors.
 
 Building from repository
